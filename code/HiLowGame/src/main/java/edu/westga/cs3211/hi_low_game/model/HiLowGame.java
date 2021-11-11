@@ -6,6 +6,7 @@ import java.util.Random;
  * 
  * @author	CS 3211
  * @version Fall 2021
+ * hello
  */
 public class HiLowGame {
 	private int secretNumber;
