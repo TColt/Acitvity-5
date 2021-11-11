@@ -20,7 +20,7 @@ jobs:
      distribution: adopt
   - name: Step 3 - Test project(s) with Maven
     run: |
-     echo HighLowGame
-     cd code/HighLowGame
+     echo HiLowGame
+     cd code/HiLowGame
      mvn --batch-mode --update-snapshots clean verify
      cd ../..
