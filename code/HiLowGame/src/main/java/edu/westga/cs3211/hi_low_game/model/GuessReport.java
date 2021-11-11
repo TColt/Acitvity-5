@@ -4,6 +4,7 @@ package edu.westga.cs3211.hi_low_game.model;
  * 
  * @author	CS 3211
  * @version Fall 2021
+ * y u do dis
  */
 public enum GuessReport {
 	TOO_HIGH,
